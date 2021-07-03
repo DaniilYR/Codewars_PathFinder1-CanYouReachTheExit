@@ -4,12 +4,12 @@ Task: [Path Finder #1: can you reach the exit?](https://www.codewars.com/kata/57
 
 Task
 
-1. You are at position [0, 0] in maze NxN and you can only move in one of the four cardinal directions (i.e. North, East, South, West). Return `true` if you can reach position [N-1, N-1] or `false` otherwise.
+You are at position [0, 0] in maze NxN and you can only move in one of the four cardinal directions (i.e. North, East, South, West). Return `true` if you can reach position [N-1, N-1] or `false` otherwise.
 * Empty positions are marked `.`.
 * Walls are marked `W`.
 * Start and exit positions are empty in all test cases.
 
-1. Path Finder Series:
+Path Finder Series:
 * [#1: can you reach the exit?](https://www.codewars.com/kata/5765870e190b1472ec0022a2)
 * [#2: shortest path](https://www.codewars.com/kata/57658bfa28ed87ecfa00058a)
 * [#3: the Alpinist](https://www.codewars.com/kata/576986639772456f6f00030c)
